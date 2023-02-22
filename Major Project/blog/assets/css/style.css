@@ -1,0 +1,10 @@
+footer {
+    background-color: #222;
+    color: white;
+}
+footer li {
+    list-style: none;
+}
+footer li a, footer li a:hover {
+    color: white;
+}
